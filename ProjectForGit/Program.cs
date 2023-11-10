@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //Подзадача 1
             Console.WriteLine("Hello, World!");
         }
     }
