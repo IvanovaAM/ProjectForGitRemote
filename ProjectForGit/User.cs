@@ -8,5 +8,6 @@ namespace ProjectForGit
 {
     internal class User
     {
+        //Подзадача 12.2.4.
     }
 }
